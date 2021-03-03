@@ -1,0 +1,5 @@
+{
+  "name": "async_hooks",
+  "run": "ASYNC_HOOKS=init node .",
+  "timeout": "30s"
+}
